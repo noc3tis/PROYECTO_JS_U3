@@ -1,0 +1,18 @@
+-------------PARA INICIAR SESION EN LA PAGINA PRINCIPAL DEL HOTEL OBLIGATORIAMENTE
+-------------DEBES REGISTRARTE AHI, NO SE PUEDE INGRESAR CON ROL DE ADMIN. LOS ADMIN 
+-------------PUEDEN RESERVA EN LA PAGINA PARA ADMINISTRADORES.
+-------------CORREO Y CONTRASEÑA EXISTENTES PARA ADMIN
+-------------correo:alexis@correo.com   password:1230
+-------------ana@gmail.com password:1234567890
+
+
+--------puede crear usuarios y admin como dece pero los usuarios se recomienda registralos
+--------en la pagina principal.
+
+--------EN LA CARPETA PROYECTO ESTA EL QUERY SQL PARA GENERAR LA BASE DE DATOS
+
+--------ya hay una base de datos funcional para la pagina
+
+--------LINK HOTEL: http://lachozainn.000.pe/
+--------LINK ADMIN: http://administrador.000.pe/
+--------LINK GITHUB: https://github.com/noc3tis/Proyecto_Php_PWeb
